@@ -1,0 +1,4 @@
+com/dietbuilder/core/services/LoadRecipesForXlsx.class
+com/dietbuilder/core/services/LoadComestibleProductsFromXlsx.class
+com/dietbuilder/core/services/InitializeDatabaseService.class
+com/dietbuilder/boot/config/InitializationProperties.class
